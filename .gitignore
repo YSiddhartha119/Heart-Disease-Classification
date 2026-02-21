@@ -1,0 +1,29 @@
+# --- Python & Data Science ---
+env/
+venv/
+.env
+bin/
+lib/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large ML Models & Data
+*.h5
+*.pth
+*.pkl
+data/
+datasets/
+
+# --- Web Development (Angela Yu / Node.js) ---
+node_modules/
+.DS_Store
+dist/
+build/
+.npm
+*.log
+
+# --- System & IDE Files ---
+.vscode/
+.idea/
+Thumbs.db
